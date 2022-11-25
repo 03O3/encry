@@ -1,6 +1,6 @@
 module github.com/EncryRose/encry
 
-go 1.13
+go 1.19
 
 require (
 	github.com/SteamDatabase/SteamworksDocumentation v0.0.0-20221125050231-f8c9cc171da5 // indirect
