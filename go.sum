@@ -1,4 +1,8 @@
-github.com/desktop/desktop v0.0.0-20221116120903-6fd3f1a6b90b h1:4+sdnq70RVdmdB2IPlAWDplmwQMQlPz+5fSJsrH/CM4=
-github.com/desktop/desktop v0.0.0-20221116120903-6fd3f1a6b90b/go.mod h1:7wHsskjaoWhmT453736uwuPe4Qwtrx0CecH6+x6KZ6U=
-github.com/telegramdesktop/tdesktop v4.2.4+incompatible h1:r+8sVwyarcgqyIQBTPcC/+wFbSLISsF5YRZUoxCqnYA=
-github.com/telegramdesktop/tdesktop v4.2.4+incompatible/go.mod h1:Nj6ZctXBrkXfCnltiNk3uK6QxMDEhKZyQ01AWUp8DTI=
+github.com/SteamDatabase/SteamworksDocumentation v0.0.0-20221125050231-f8c9cc171da5 h1:5+Lx3+lOu4N1lLA7B7kJRDHmJYmhEzs2PDIZnVNYC2o=
+github.com/SteamDatabase/SteamworksDocumentation v0.0.0-20221125050231-f8c9cc171da5/go.mod h1:/ToHijlRisPSoxrfBx7TbDjaR8fM4PLtJ1r7gfmalbQ=
+github.com/desktop/desktop v0.0.0-20221124072927-0ca784e6f459 h1:erY7cKFrQV68LgiqxBY96f88N5J3AQzKiUJq7ilv+qw=
+github.com/desktop/desktop v0.0.0-20221124072927-0ca784e6f459/go.mod h1:7wHsskjaoWhmT453736uwuPe4Qwtrx0CecH6+x6KZ6U=
+github.com/pterodactyl/panel v1.10.4 h1:ZTJMJyBoHRMfpSfLu3PwC6e1HHvqXGdLcjGhkwFsGmw=
+github.com/pterodactyl/panel v1.10.4/go.mod h1:aEJngz7VW2z5FEEk0gG+O7mj7BfHgrBeYA9/DEqOVQA=
+github.com/telegramdesktop/tdesktop v4.3.4+incompatible h1:iQRtiD+d9OKquUGOCYbqxl+H3zqjdlxDSVpRldJ7Nks=
+github.com/telegramdesktop/tdesktop v4.3.4+incompatible/go.mod h1:Nj6ZctXBrkXfCnltiNk3uK6QxMDEhKZyQ01AWUp8DTI=

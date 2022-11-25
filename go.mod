@@ -1,9 +1,10 @@
 module github.com/EncryRose/encry
 
-go 1.19
+go 1.13
 
 require (
-	github.com/desktop/desktop v0.0.0-20221116120903-6fd3f1a6b90b // indirect
-	github.com/telegramdesktop/tdesktop v4.2.4+incompatible // indirect
+	github.com/SteamDatabase/SteamworksDocumentation v0.0.0-20221125050231-f8c9cc171da5 // indirect
+	github.com/desktop/desktop v0.0.0-20221124072927-0ca784e6f459 // indirect
 	github.com/pterodactyl/panel v1.10.4 // indirect
+	github.com/telegramdesktop/tdesktop v4.3.4+incompatible // indirect
 )
